@@ -57,7 +57,7 @@ function App() {
   {/*header starts*/}
   <header>
     <div class="user">
-      <img src="mypicture.jpg" alt='my picture'/>
+      <img src="mypicture.jpg" alt='my picture'>
       <h3 class="name ">Betelhem Tsega</h3> 
       <p class="post">A software engineering student at BiT</p> 
     </div>
